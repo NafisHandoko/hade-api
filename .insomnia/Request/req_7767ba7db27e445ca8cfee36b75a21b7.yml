@@ -1,0 +1,36 @@
+_id: req_7767ba7db27e445ca8cfee36b75a21b7
+type: Request
+parentId: fld_94fb4bbf297d4152a3f061a419858874
+modified: 1663509208707
+created: 1663509052805
+url: localhost:3000/api/design/
+name: Add Design
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"name": "Urban House",
+    		"price": 250000000,
+    		"land_dimension": "5x6m",
+    		"land_area": 800,
+    		"building_area": 500.1,
+    		"rating": 0,
+    		"design_style": 1,
+    		"design_category": 3
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5093d140562740f2a7d4c8fcf9587d37
+authentication: {}
+metaSortKey: -1663508979689
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

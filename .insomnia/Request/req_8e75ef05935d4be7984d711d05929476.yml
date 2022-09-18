@@ -1,0 +1,21 @@
+_id: req_8e75ef05935d4be7984d711d05929476
+type: Request
+parentId: fld_94fb4bbf297d4152a3f061a419858874
+modified: 1663509170687
+created: 1663509168857
+url: localhost:3000/api/design/6326fac4ce494ee2d98487f7
+name: Delete Design
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663509168857
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

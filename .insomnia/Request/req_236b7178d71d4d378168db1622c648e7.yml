@@ -1,0 +1,21 @@
+_id: req_236b7178d71d4d378168db1622c648e7
+type: Request
+parentId: fld_94fb4bbf297d4152a3f061a419858874
+modified: 1663509020698
+created: 1663508979739
+url: localhost:3000/api/design/
+name: Get All Designs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663508979739
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

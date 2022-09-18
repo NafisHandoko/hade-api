@@ -1,0 +1,31 @@
+_id: req_98f3031816c8458e9d5f9d4ad855d5d6
+type: Request
+parentId: fld_94fb4bbf297d4152a3f061a419858874
+modified: 1663509247899
+created: 1663509195686
+url: localhost:3000/api/design/6326fac4ce494ee2d98487f7
+name: Update Design
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    		"land_dimension": "7x8m",
+    		"land_area": 750,
+    		"building_area": 600.75
+    	}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5a5185a3efae4655bd424424874f89b9
+authentication: {}
+metaSortKey: -1663509195686
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

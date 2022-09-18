@@ -1,0 +1,30 @@
+_id: req_328cd32ad68345d49422d137ed82d718
+type: Request
+parentId: fld_0102bff32a454565bd23a71e687d6a7f
+modified: 1663510045920
+created: 1663509268298
+url: localhost:3000/api/auth/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email":"handoko@mail.com",
+    	"password":"QWer12!@"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_5b171fc97faa42efa559b193bddcf9cf
+authentication: {}
+metaSortKey: -1663509268298
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
